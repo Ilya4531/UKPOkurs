@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 add_subdirectory(test)
 
 
-add_executable(lab4 lab4_server.cpp)
+add_executable(lab4 server.cpp)
 
 target_link_libraries(lab4)
 
