@@ -1,0 +1,2 @@
+2.txt:I said: "Hello!"
+2.txt:But he didn't said "Hello!"
